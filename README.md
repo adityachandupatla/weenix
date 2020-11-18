@@ -1,5 +1,5 @@
 # Weenix OS
-This repository is a placeholder for Weenix Operating System which I, along with two of my friends, have implemented as part of the graduate level course, CSCI 402, which we have taken at USC (Spring 2020). The course instructor was Prof. Bill Cheng.
+This repository is a placeholder for Weenix Operating System which I, along with two other classmates, have implemented as part of the graduate level course, CSCI 402, which we have taken at USC (Spring 2020). The course instructor was Prof. Bill Cheng.
 
 The goal of the course was to familiarise students with the internals of operating system starting from the abstractions of processes and threads and all the way upto virtual memory.
 
